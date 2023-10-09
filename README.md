@@ -1,8 +1,8 @@
-# React + Vite
+# Summarize Articles with OpenAI GPT-4
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sumz is a user-friendly tool powered by OpenAI's GPT-4, designed to simplify lengthy articles into concise, understandable summaries. It helps users quickly grasp the main points without losing critical information. Sumz leverages GPT-4's advanced language capabilities to make complex content more accessible.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## App UI 
+<div style="clear: both;">
+  <img src="/src/assets/deploy.png"/>
+</div
